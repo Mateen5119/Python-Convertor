@@ -1,0 +1,205 @@
+:root {
+    --bg-light: #f3f4f6;
+    --bg-dark: #111827;
+    --glass-bg-light: rgba(255, 255, 255, 0.7);
+    --glass-bg-dark: rgba(31, 41, 55, 0.6);
+    --glass-border-light: rgba(255, 255, 255, 0.3);
+    --glass-border-dark: rgba(255, 255, 255, 0.05);
+    --text-light: #1f2937;
+    --text-dark: #f9fafb;
+    --primary: #6366f1;
+    --primary-hover: #4f46e5;
+    --error: #ef4444;
+    --success: #10b981;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.4s, color 0.4s;
+    /* dynamic mesh gradient for background */
+    background: radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), radial-gradient(at 50% 0%, hsla(225,39%,30%,1) 0, transparent 50%), radial-gradient(at 100% 0%, hsla(339,49%,30%,1) 0, transparent 50%);
+    background-color: var(--bg-light);
+    color: var(--text-light);
+}
+
+body.dark-mode {
+    background-color: var(--bg-dark);
+    color: var(--text-dark);
+}
+
+body:not(.dark-mode) {
+    background: radial-gradient(at 0% 0%, hsla(253,16%,90%,1) 0, transparent 50%), radial-gradient(at 50% 0%, hsla(225,39%,80%,1) 0, transparent 50%), radial-gradient(at 100% 0%, hsla(339,49%,80%,1) 0, transparent 50%);
+}
+
+.theme-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: rgba(255,255,255,0.1);
+    border: 1px solid var(--glass-border-light);
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s;
+}
+
+body.dark-mode .theme-toggle {
+    border-color: var(--glass-border-dark);
+}
+
+.glass-container {
+    background: var(--glass-bg-light);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--glass-border-light);
+    border-radius: 24px;
+    padding: 40px;
+    width: 90%;
+    max-width: 600px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: all 0.4s;
+}
+
+body.dark-mode .glass-container {
+    background: var(--glass-bg-dark);
+    border-color: var(--glass-border-dark);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+header h1 {
+    font-weight: 600;
+    margin-bottom: 8px;
+    font-size: 2.5rem;
+}
+
+header p {
+    font-weight: 300;
+    margin-bottom: 30px;
+    opacity: 0.8;
+}
+
+.drop-zone {
+    border: 2px dashed rgba(99, 102, 241, 0.5);
+    border-radius: 16px;
+    padding: 40px 20px;
+    cursor: pointer;
+    transition: all 0.3s;
+    background: rgba(99, 102, 241, 0.05);
+}
+
+.drop-zone:hover, .drop-zone.dragover {
+    border-color: var(--primary);
+    background: rgba(99, 102, 241, 0.1);
+}
+
+.upload-icon {
+    width: 48px;
+    height: 48px;
+    color: var(--primary);
+    margin-bottom: 15px;
+}
+
+.browse-text {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.file-info {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    opacity: 0.7;
+    word-break: break-all;
+}
+
+.controls {
+    margin-top: 30px;
+    animation: fadeIn 0.4s ease-out;
+}
+
+.format-select {
+    margin-bottom: 20px;
+}
+
+select {
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid var(--glass-border-light);
+    background: rgba(255,255,255,0.5);
+    font-size: 1rem;
+    margin-left: 10px;
+    outline: none;
+    font-family: inherit;
+}
+
+body.dark-mode select {
+    background: rgba(0,0,0,0.3);
+    color: var(--text-dark);
+    border-color: var(--glass-border-dark);
+}
+
+.convert-btn {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.1s;
+    width: 100%;
+}
+
+.convert-btn:hover {
+    background: var(--primary-hover);
+}
+
+.convert-btn:active {
+    transform: scale(0.98);
+}
+
+.status-container {
+    margin-top: 25px;
+    animation: fadeIn 0.4s ease-out;
+}
+
+.loader {
+    border: 3px solid rgba(99, 102, 241, 0.2);
+    border-top: 3px solid var(--primary);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto 10px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.status-msg.error {
+    color: var(--error);
+}
+
+.status-msg.success {
+    color: var(--success);
+}
