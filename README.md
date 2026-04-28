@@ -17,6 +17,19 @@ File Converter Pro is a robust, production-ready desktop application designed to
 - **Chunked Streaming for Memory Optimization:** Engineered to handle incredibly large files without crashing or hogging system memory.
 - **Strict Input Sanitization & Secure File Handling:** Utilizes unique, randomized temporary directories for each conversion task and immediately destroys data post-conversion to ensure absolute privacy.
 - **Intelligent Format Detection:** Seamlessly decouples input formats from target formats, routing files to the exact right conversion engine behind the scenes.
+  
+## ⚠️ CRITICAL SETUP STEP: LibreOffice Extraction
+Because of GitHub's strict file size limits, the heavy LibreOffice dependency required for Word-to-PDF conversions has been split into multi-part `.rar` archives. 
+
+**The program will crash on Word-to-PDF conversions if you do not complete this step first:**
+
+1. Navigate to the `fileconverter/libreoffice_portable/` directory.
+2. Ensure you have an extraction tool like [WinRAR](https://www.rarlab.com/download.htm) or [7-Zip](https://www.7-zip.org/) installed on your computer.
+3. Locate the first part of the archive (it will end in `.part01.rar` or `.part1.rar`).
+4. Right-click that specific file and select **"Extract Here"**.
+5. The software will automatically read all the other `.rar` parts in the folder and seamlessly stitch together the massive LibreOffice file required by the backend.
+
+*(Note: You only need to extract the first part; the extractor handles the rest automatically).*
 
 ## 🔀 Supported Conversions (The Matrix)
 
