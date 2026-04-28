@@ -4,8 +4,11 @@
 block_cipher = None
 
 # Bundle the 'static' folder containing your index.html and web assets
+# Bundle the 'static' folder AND LibreOffice Portable
 added_files = [
-    ('static', 'static')
+    ('static', 'static'),
+#   ('templates', 'templates'), # (Kept it for future reference )
+    ('libreoffice_portable', 'libreoffice_portable') # This line was added for the libre office Library.
 ]
 
 # Explicitly define hidden imports that PyInstaller might miss dynamically

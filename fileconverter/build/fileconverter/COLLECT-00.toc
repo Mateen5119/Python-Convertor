@@ -3242,6 +3242,10 @@
   ('libffi-8.dll',
    'C:\\Users\\abdul\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
    'BINARY'),
+  ('libreoffice_portable\\LibreOfficePortable_26.2.1_MultilingualStandard.paf.exe',
+   'X:\\Python '
+   'Convertor\\fileconverter\\libreoffice_portable\\LibreOfficePortable_26.2.1_MultilingualStandard.paf.exe',
+   'BINARY'),
   ('libssl-3.dll',
    'C:\\Users\\abdul\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
    'BINARY'),
