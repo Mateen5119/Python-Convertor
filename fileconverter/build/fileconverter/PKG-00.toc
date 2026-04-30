@@ -33,7 +33,7 @@
    'Convertor\\fileconverter\\build\\fileconverter\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('pyi_rth_inspect',

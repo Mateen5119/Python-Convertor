@@ -6,31 +6,31 @@
    'C:\\Program Files\\Microsoft\\jdk-17.0.18.8-hotspot\\bin\\MSVCP140.dll',
    'BINARY'),
   ('PIL\\_avif.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\PIL\\_avif.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('PIL\\_imaging.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\PIL\\_imaging.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('PIL\\_imagingcms.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('PIL\\_imagingft.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\PIL\\_imagingft.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('PIL\\_imagingmath.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('PIL\\_imagingtk.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('PIL\\_webp.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\PIL\\_webp.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('VCRUNTIME140.dll',
@@ -3018,222 +3018,222 @@
    'Convertor\\fileconverter\\build\\fileconverter\\base_library.zip',
    'DATA'),
   ('click-8.3.3.dist-info\\INSTALLER',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\click-8.3.3.dist-info\\INSTALLER',
    'DATA'),
   ('click-8.3.3.dist-info\\METADATA',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\click-8.3.3.dist-info\\METADATA',
    'DATA'),
   ('click-8.3.3.dist-info\\RECORD',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\click-8.3.3.dist-info\\RECORD',
    'DATA'),
   ('click-8.3.3.dist-info\\WHEEL',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\click-8.3.3.dist-info\\WHEEL',
    'DATA'),
   ('click-8.3.3.dist-info\\licenses\\LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\click-8.3.3.dist-info\\licenses\\LICENSE.txt',
    'DATA'),
   ('cv2\\__init__.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\__init__.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\__init__.py',
    'DATA'),
   ('cv2\\config-3.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\config-3.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\config-3.py',
    'DATA'),
   ('cv2\\config.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\config.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\config.py',
    'DATA'),
   ('cv2\\cv2.pyd',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\cv2.pyd',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\cv2.pyd',
    'EXTENSION'),
   ('cv2\\data\\__init__.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\data\\__init__.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\data\\__init__.py',
    'DATA'),
   ('cv2\\gapi\\__init__.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\gapi\\__init__.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\gapi\\__init__.py',
    'DATA'),
   ('cv2\\load_config_py3.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\load_config_py3.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\load_config_py3.py',
    'DATA'),
   ('cv2\\mat_wrapper\\__init__.py',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\cv2\\mat_wrapper\\__init__.py',
    'DATA'),
   ('cv2\\misc\\__init__.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\misc\\__init__.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\misc\\__init__.py',
    'DATA'),
   ('cv2\\misc\\version.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\misc\\version.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\misc\\version.py',
    'DATA'),
   ('cv2\\opencv_videoio_ffmpeg4130_64.dll',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\cv2\\opencv_videoio_ffmpeg4130_64.dll',
    'BINARY'),
   ('cv2\\typing\\__init__.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\typing\\__init__.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\typing\\__init__.py',
    'DATA'),
   ('cv2\\utils\\__init__.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\utils\\__init__.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\utils\\__init__.py',
    'DATA'),
   ('cv2\\version.py',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\version.py',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\cv2\\version.py',
    'DATA'),
   ('dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
    'DATA'),
   ('docx\\py.typed',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\docx\\py.typed',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\docx\\py.typed',
    'DATA'),
   ('docx\\templates\\default-comments.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-comments.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\[Content_Types].xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\[Content_Types].xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\_rels\\.rels',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\_rels\\.rels',
    'DATA'),
   ('docx\\templates\\default-docx-template\\customXml\\_rels\\item1.xml.rels',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\_rels\\item1.xml.rels',
    'DATA'),
   ('docx\\templates\\default-docx-template\\customXml\\item1.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\item1.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\customXml\\itemProps1.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\itemProps1.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\docProps\\app.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\app.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\docProps\\core.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\core.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\docProps\\thumbnail.jpeg',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\thumbnail.jpeg',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\_rels\\document.xml.rels',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\_rels\\document.xml.rels',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\document.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\document.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\fontTable.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\fontTable.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\numbering.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\numbering.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\settings.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\settings.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\styles.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\styles.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\stylesWithEffects.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\stylesWithEffects.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\theme\\theme1.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\theme\\theme1.xml',
    'DATA'),
   ('docx\\templates\\default-docx-template\\word\\webSettings.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\webSettings.xml',
    'DATA'),
   ('docx\\templates\\default-footer.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-footer.xml',
    'DATA'),
   ('docx\\templates\\default-header.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-header.xml',
    'DATA'),
   ('docx\\templates\\default-settings.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-settings.xml',
    'DATA'),
   ('docx\\templates\\default-styles.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default-styles.xml',
    'DATA'),
   ('docx\\templates\\default.docx',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\docx\\templates\\default.docx',
    'DATA'),
   ('flask-3.1.3.dist-info\\INSTALLER',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\INSTALLER',
    'DATA'),
   ('flask-3.1.3.dist-info\\METADATA',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\METADATA',
    'DATA'),
   ('flask-3.1.3.dist-info\\RECORD',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\RECORD',
    'DATA'),
   ('flask-3.1.3.dist-info\\REQUESTED',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\REQUESTED',
    'DATA'),
   ('flask-3.1.3.dist-info\\WHEEL',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\WHEEL',
    'DATA'),
   ('flask-3.1.3.dist-info\\entry_points.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\entry_points.txt',
    'DATA'),
   ('flask-3.1.3.dist-info\\licenses\\LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\licenses\\LICENSE.txt',
    'DATA'),
   ('fontTools\\misc\\bezierTools.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\fontTools\\misc\\bezierTools.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('fontTools\\varLib\\iup.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\fontTools\\varLib\\iup.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('itsdangerous-2.2.0.dist-info\\INSTALLER',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\INSTALLER',
    'DATA'),
   ('itsdangerous-2.2.0.dist-info\\LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\LICENSE.txt',
    'DATA'),
   ('itsdangerous-2.2.0.dist-info\\METADATA',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\METADATA',
    'DATA'),
   ('itsdangerous-2.2.0.dist-info\\RECORD',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\RECORD',
    'DATA'),
   ('itsdangerous-2.2.0.dist-info\\WHEEL',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\WHEEL',
    'DATA'),
   ('libcrypto-3.dll',
@@ -3250,508 +3250,508 @@
    'C:\\Users\\abdul\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
    'BINARY'),
   ('lxml\\_elementpath.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\_elementpath.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('lxml\\builder.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\builder.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('lxml\\etree.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\etree.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('lxml\\html\\_difflib.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\html\\_difflib.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('lxml\\html\\diff.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\html\\diff.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
    'DATA'),
   ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
    'DATA'),
   ('lxml\\objectify.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\objectify.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('lxml\\sax.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\lxml\\sax.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('markupsafe-3.0.3.dist-info\\INSTALLER',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\INSTALLER',
    'DATA'),
   ('markupsafe-3.0.3.dist-info\\METADATA',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\METADATA',
    'DATA'),
   ('markupsafe-3.0.3.dist-info\\RECORD',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\RECORD',
    'DATA'),
   ('markupsafe-3.0.3.dist-info\\WHEEL',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\WHEEL',
    'DATA'),
   ('markupsafe-3.0.3.dist-info\\licenses\\LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\licenses\\LICENSE.txt',
    'DATA'),
   ('markupsafe-3.0.3.dist-info\\top_level.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\top_level.txt',
    'DATA'),
   ('markupsafe\\_speedups.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\markupsafe\\_speedups.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy-2.4.4.dist-info\\DELVEWHEEL',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\DELVEWHEEL',
    'DATA'),
   ('numpy-2.4.4.dist-info\\INSTALLER',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\INSTALLER',
    'DATA'),
   ('numpy-2.4.4.dist-info\\METADATA',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\METADATA',
    'DATA'),
   ('numpy-2.4.4.dist-info\\RECORD',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\RECORD',
    'DATA'),
   ('numpy-2.4.4.dist-info\\WHEEL',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\WHEEL',
    'DATA'),
   ('numpy-2.4.4.dist-info\\entry_points.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\entry_points.txt',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\LICENSE.txt',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\ma\\LICENSE',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\ma\\LICENSE',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\random\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\random\\LICENSE.md',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
    'DATA'),
   ('numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy-2.4.4.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
    'DATA'),
   ('numpy.libs\\libscipy_openblas64_-63c857e738469261263c764a36be9436.dll',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-63c857e738469261263c764a36be9436.dll',
    'BINARY'),
   ('numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
    'BINARY'),
   ('numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\_common.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\_common.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\_generator.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\_generator.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\_mt19937.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\_pcg64.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\_philox.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\_philox.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\_sfc64.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\bit_generator.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('numpy\\random\\mtrand.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\numpy\\random\\mtrand.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
    'BINARY'),
   ('pandas\\_libs\\_cyutility.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\_cyutility.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\algos.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\algos.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\arrays.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\arrays.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\byteswap.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\byteswap.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\groupby.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\groupby.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\hashing.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\hashing.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\hashtable.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\hashtable.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\index.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\index.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\indexing.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\indexing.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\internals.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\internals.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\interval.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\interval.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\join.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\join.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\json.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\json.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\lib.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\lib.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\missing.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\missing.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\ops.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\ops.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\ops_dispatch.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\pandas_datetime.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\pandas_datetime.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\pandas_parser.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\pandas_parser.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\parsers.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\parsers.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\properties.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\properties.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\reshape.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\reshape.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\sas.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\sas.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\sparse.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\sparse.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\testing.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\testing.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslib.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslib.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\base.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\ccalendar.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\conversion.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\dtypes.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\fields.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\nattype.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\np_datetime.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\offsets.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\parsing.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\period.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\strptime.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\timedeltas.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\timestamps.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\timezones.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\tzconversion.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\tslibs\\vectorized.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\window\\aggregations.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\window\\indexers.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\indexers.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\_libs\\writers.cp312-win_amd64.pyd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\_libs\\writers.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pandas\\io\\formats\\templates\\html.tpl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
    'DATA'),
   ('pandas\\io\\formats\\templates\\html_style.tpl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
    'DATA'),
   ('pandas\\io\\formats\\templates\\html_table.tpl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
    'DATA'),
   ('pandas\\io\\formats\\templates\\latex.tpl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
    'DATA'),
   ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
    'DATA'),
   ('pandas\\io\\formats\\templates\\latex_table.tpl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
    'DATA'),
   ('pandas\\io\\formats\\templates\\string.tpl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
    'DATA'),
   ('pandas\\io\\formats\\templates\\typst.tpl',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\typst.tpl',
    'DATA'),
   ('pptx\\templates\\default.pptx',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pptx\\templates\\default.pptx',
    'DATA'),
   ('pptx\\templates\\docx-icon.emf',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pptx\\templates\\docx-icon.emf',
    'DATA'),
   ('pptx\\templates\\generic-icon.emf',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pptx\\templates\\generic-icon.emf',
    'DATA'),
   ('pptx\\templates\\notes.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pptx\\templates\\notes.xml',
    'DATA'),
   ('pptx\\templates\\notesMaster.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pptx\\templates\\notesMaster.xml',
    'DATA'),
   ('pptx\\templates\\pptx-icon.emf',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pptx\\templates\\pptx-icon.emf',
    'DATA'),
   ('pptx\\templates\\theme.xml',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pptx\\templates\\theme.xml',
    'DATA'),
   ('pptx\\templates\\xlsx-icon.emf',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\pptx\\templates\\xlsx-icon.emf',
    'DATA'),
   ('pyexpat.pyd',
    'C:\\Users\\abdul\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\pyexpat.pyd',
    'EXTENSION'),
   ('pymupdf\\_extra.pyd',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\pymupdf\\_extra.pyd',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\pymupdf\\_extra.pyd',
    'EXTENSION'),
   ('pymupdf\\_mupdf.pyd',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\pymupdf\\_mupdf.pyd',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\pymupdf\\_mupdf.pyd',
    'EXTENSION'),
   ('pymupdf\\mupdfcpp64.dll',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\pymupdf\\mupdfcpp64.dll',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\pymupdf\\mupdfcpp64.dll',
    'BINARY'),
   ('python3.dll',
    'C:\\Users\\abdul\\AppData\\Local\\Programs\\Python\\Python312\\python3.dll',
@@ -3763,35 +3763,35 @@
    'C:\\Users\\abdul\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
    'EXTENSION'),
   ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
    'DATA'),
   ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
    'ipsum.txt',
    'DATA'),
@@ -3829,2384 +3829,2384 @@
    'C:\\Users\\abdul\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\tk86t.dll',
    'BINARY'),
   ('tzdata\\zoneinfo\\Africa\\Abidjan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Abidjan',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Accra',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Accra',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Addis_Ababa',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Addis_Ababa',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Algiers',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Algiers',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Asmara',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Asmara',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Asmera',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Asmera',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Bamako',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Bamako',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Bangui',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Bangui',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Banjul',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Banjul',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Bissau',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Bissau',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Blantyre',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Blantyre',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Brazzaville',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Brazzaville',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Bujumbura',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Bujumbura',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Cairo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Cairo',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Casablanca',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Casablanca',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Ceuta',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Ceuta',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Conakry',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Conakry',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Dakar',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Dakar',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Dar_es_Salaam',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Dar_es_Salaam',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Djibouti',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Djibouti',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Douala',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Douala',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\El_Aaiun',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\El_Aaiun',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Freetown',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Freetown',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Gaborone',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Gaborone',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Harare',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Harare',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Johannesburg',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Johannesburg',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Juba',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Juba',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Kampala',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Kampala',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Khartoum',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Khartoum',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Kigali',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Kigali',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Kinshasa',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Kinshasa',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Lagos',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Lagos',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Libreville',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Libreville',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Lome',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Lome',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Luanda',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Luanda',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Lubumbashi',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Lubumbashi',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Lusaka',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Lusaka',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Malabo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Malabo',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Maputo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Maputo',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Maseru',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Maseru',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Mbabane',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Mbabane',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Mogadishu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Mogadishu',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Monrovia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Monrovia',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Nairobi',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Nairobi',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Ndjamena',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Ndjamena',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Niamey',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Niamey',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Nouakchott',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Nouakchott',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Ouagadougou',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Ouagadougou',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Porto-Novo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Porto-Novo',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Sao_Tome',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Sao_Tome',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Timbuktu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Timbuktu',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Tripoli',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Tripoli',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Tunis',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Tunis',
    'DATA'),
   ('tzdata\\zoneinfo\\Africa\\Windhoek',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Windhoek',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Adak',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Adak',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Anchorage',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Anchorage',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Anguilla',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Anguilla',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Antigua',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Antigua',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Araguaina',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Araguaina',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Buenos_Aires',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Buenos_Aires',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Catamarca',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Catamarca',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\ComodRivadavia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\ComodRivadavia',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Cordoba',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Cordoba',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Jujuy',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Jujuy',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\La_Rioja',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\La_Rioja',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Mendoza',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Mendoza',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Salta',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Salta',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\San_Juan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\San_Juan',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\San_Luis',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\San_Luis',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Tucuman',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Tucuman',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Argentina\\Ushuaia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Ushuaia',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Aruba',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Aruba',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Asuncion',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Asuncion',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Atikokan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Atikokan',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Atka',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Atka',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Bahia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Bahia',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Bahia_Banderas',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Bahia_Banderas',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Barbados',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Barbados',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Belem',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Belem',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Belize',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Belize',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Blanc-Sablon',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Blanc-Sablon',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Boa_Vista',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Boa_Vista',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Bogota',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Bogota',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Boise',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Boise',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Buenos_Aires',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Buenos_Aires',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Cambridge_Bay',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cambridge_Bay',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Campo_Grande',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Campo_Grande',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Cancun',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cancun',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Caracas',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Caracas',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Catamarca',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Catamarca',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Cayenne',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cayenne',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Cayman',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cayman',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Chicago',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Chicago',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Chihuahua',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Chihuahua',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Ciudad_Juarez',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Ciudad_Juarez',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Coral_Harbour',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Coral_Harbour',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Cordoba',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cordoba',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Costa_Rica',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Costa_Rica',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Coyhaique',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Coyhaique',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Creston',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Creston',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Cuiaba',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cuiaba',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Curacao',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Curacao',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Danmarkshavn',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Danmarkshavn',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Dawson',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Dawson',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Dawson_Creek',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Dawson_Creek',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Denver',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Denver',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Detroit',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Detroit',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Dominica',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Dominica',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Edmonton',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Edmonton',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Eirunepe',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Eirunepe',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\El_Salvador',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\El_Salvador',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Ensenada',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Ensenada',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Fort_Nelson',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Fort_Nelson',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Fort_Wayne',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Fort_Wayne',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Fortaleza',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Fortaleza',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Glace_Bay',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Glace_Bay',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Godthab',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Godthab',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Goose_Bay',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Goose_Bay',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Grand_Turk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Grand_Turk',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Grenada',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Grenada',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Guadeloupe',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Guadeloupe',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Guatemala',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Guatemala',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Guayaquil',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Guayaquil',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Guyana',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Guyana',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Halifax',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Halifax',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Havana',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Havana',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Hermosillo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Hermosillo',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indiana\\Indianapolis',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Indianapolis',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indiana\\Knox',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Knox',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indiana\\Marengo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Marengo',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indiana\\Petersburg',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Petersburg',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indiana\\Tell_City',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Tell_City',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indiana\\Vevay',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Vevay',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indiana\\Vincennes',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Vincennes',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indiana\\Winamac',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Winamac',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Indianapolis',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indianapolis',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Inuvik',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Inuvik',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Iqaluit',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Iqaluit',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Jamaica',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Jamaica',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Jujuy',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Jujuy',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Juneau',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Juneau',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Kentucky\\Louisville',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kentucky\\Louisville',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Kentucky\\Monticello',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kentucky\\Monticello',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Knox_IN',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Knox_IN',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Kralendijk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kralendijk',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\La_Paz',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\La_Paz',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Lima',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Lima',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Los_Angeles',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Los_Angeles',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Louisville',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Louisville',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Lower_Princes',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Lower_Princes',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Maceio',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Maceio',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Managua',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Managua',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Manaus',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Manaus',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Marigot',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Marigot',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Martinique',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Martinique',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Matamoros',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Matamoros',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Mazatlan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Mazatlan',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Mendoza',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Mendoza',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Menominee',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Menominee',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Merida',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Merida',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Metlakatla',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Metlakatla',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Mexico_City',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Mexico_City',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Miquelon',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Miquelon',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Moncton',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Moncton',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Monterrey',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Monterrey',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Montevideo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Montevideo',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Montreal',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Montreal',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Montserrat',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Montserrat',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Nassau',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Nassau',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\New_York',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\New_York',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Nipigon',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Nipigon',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Nome',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Nome',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Noronha',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Noronha',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\North_Dakota\\Beulah',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\Beulah',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\North_Dakota\\Center',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\Center',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\North_Dakota\\New_Salem',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\New_Salem',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Nuuk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Nuuk',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Ojinaga',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Ojinaga',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Panama',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Panama',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Pangnirtung',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Pangnirtung',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Paramaribo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Paramaribo',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Phoenix',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Phoenix',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Port-au-Prince',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Port-au-Prince',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Port_of_Spain',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Port_of_Spain',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Porto_Acre',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Porto_Acre',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Porto_Velho',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Porto_Velho',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Puerto_Rico',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Puerto_Rico',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Punta_Arenas',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Punta_Arenas',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Rainy_River',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Rainy_River',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Rankin_Inlet',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Rankin_Inlet',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Recife',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Recife',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Regina',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Regina',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Resolute',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Resolute',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Rio_Branco',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Rio_Branco',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Rosario',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Rosario',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Santa_Isabel',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Santa_Isabel',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Santarem',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Santarem',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Santiago',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Santiago',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Santo_Domingo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Santo_Domingo',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Sao_Paulo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Sao_Paulo',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Scoresbysund',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Scoresbysund',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Shiprock',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Shiprock',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Sitka',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Sitka',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\St_Barthelemy',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Barthelemy',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\St_Johns',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Johns',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\St_Kitts',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Kitts',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\St_Lucia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Lucia',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\St_Thomas',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Thomas',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\St_Vincent',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Vincent',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Swift_Current',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Swift_Current',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Tegucigalpa',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Tegucigalpa',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Thule',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Thule',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Thunder_Bay',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Thunder_Bay',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Tijuana',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Tijuana',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Toronto',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Toronto',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Tortola',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Tortola',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Vancouver',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Vancouver',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Virgin',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Virgin',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Whitehorse',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Whitehorse',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Winnipeg',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Winnipeg',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Yakutat',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Yakutat',
    'DATA'),
   ('tzdata\\zoneinfo\\America\\Yellowknife',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Yellowknife',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Casey',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Casey',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Davis',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Davis',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\DumontDUrville',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\DumontDUrville',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Macquarie',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Macquarie',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Mawson',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Mawson',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\McMurdo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\McMurdo',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Palmer',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Palmer',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Rothera',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Rothera',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\South_Pole',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\South_Pole',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Syowa',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Syowa',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Troll',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Troll',
    'DATA'),
   ('tzdata\\zoneinfo\\Antarctica\\Vostok',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Vostok',
    'DATA'),
   ('tzdata\\zoneinfo\\Arctic\\Longyearbyen',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Arctic\\Longyearbyen',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Aden',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Aden',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Almaty',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Almaty',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Amman',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Amman',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Anadyr',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Anadyr',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Aqtau',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Aqtau',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Aqtobe',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Aqtobe',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Ashgabat',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ashgabat',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Ashkhabad',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ashkhabad',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Atyrau',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Atyrau',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Baghdad',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Baghdad',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Bahrain',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Bahrain',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Baku',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Baku',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Bangkok',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Bangkok',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Barnaul',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Barnaul',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Beirut',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Beirut',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Bishkek',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Bishkek',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Brunei',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Brunei',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Calcutta',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Calcutta',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Chita',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Chita',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Choibalsan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Choibalsan',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Chongqing',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Chongqing',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Chungking',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Chungking',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Colombo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Colombo',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Dacca',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dacca',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Damascus',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Damascus',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Dhaka',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dhaka',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Dili',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dili',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Dubai',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dubai',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Dushanbe',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dushanbe',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Famagusta',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Famagusta',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Gaza',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Gaza',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Harbin',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Harbin',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Hebron',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Hebron',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Ho_Chi_Minh',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ho_Chi_Minh',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Hong_Kong',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Hong_Kong',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Hovd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Hovd',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Irkutsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Irkutsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Istanbul',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Istanbul',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Jakarta',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Jakarta',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Jayapura',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Jayapura',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Jerusalem',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Jerusalem',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Kabul',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kabul',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Kamchatka',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kamchatka',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Karachi',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Karachi',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Kashgar',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kashgar',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Kathmandu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kathmandu',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Katmandu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Katmandu',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Khandyga',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Khandyga',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Kolkata',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kolkata',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Krasnoyarsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Krasnoyarsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Kuala_Lumpur',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kuala_Lumpur',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Kuching',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kuching',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Kuwait',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kuwait',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Macao',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Macao',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Macau',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Macau',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Magadan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Magadan',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Makassar',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Makassar',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Manila',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Manila',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Muscat',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Muscat',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Nicosia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Nicosia',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Novokuznetsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Novokuznetsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Novosibirsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Novosibirsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Omsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Omsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Oral',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Oral',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Phnom_Penh',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Phnom_Penh',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Pontianak',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Pontianak',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Pyongyang',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Pyongyang',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Qatar',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Qatar',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Qostanay',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Qostanay',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Qyzylorda',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Qyzylorda',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Rangoon',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Rangoon',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Riyadh',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Riyadh',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Saigon',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Saigon',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Sakhalin',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Sakhalin',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Samarkand',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Samarkand',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Seoul',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Seoul',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Shanghai',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Shanghai',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Singapore',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Singapore',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Srednekolymsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Srednekolymsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Taipei',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Taipei',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Tashkent',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tashkent',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Tbilisi',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tbilisi',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Tehran',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tehran',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Tel_Aviv',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tel_Aviv',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Thimbu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Thimbu',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Thimphu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Thimphu',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Tokyo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tokyo',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Tomsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tomsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Ujung_Pandang',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ujung_Pandang',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Ulaanbaatar',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ulaanbaatar',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Ulan_Bator',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ulan_Bator',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Urumqi',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Urumqi',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Ust-Nera',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ust-Nera',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Vientiane',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Vientiane',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Vladivostok',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Vladivostok',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Yakutsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Yakutsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Yangon',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Yangon',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Yekaterinburg',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Yekaterinburg',
    'DATA'),
   ('tzdata\\zoneinfo\\Asia\\Yerevan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Yerevan',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Azores',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Azores',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Bermuda',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Bermuda',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Canary',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Canary',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Cape_Verde',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Cape_Verde',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Faeroe',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Faeroe',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Faroe',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Faroe',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Jan_Mayen',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Jan_Mayen',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Madeira',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Madeira',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Reykjavik',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Reykjavik',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\South_Georgia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\South_Georgia',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\St_Helena',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\St_Helena',
    'DATA'),
   ('tzdata\\zoneinfo\\Atlantic\\Stanley',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Stanley',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\ACT',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\ACT',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Adelaide',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Adelaide',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Brisbane',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Brisbane',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Broken_Hill',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Broken_Hill',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Canberra',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Canberra',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Currie',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Currie',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Darwin',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Darwin',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Eucla',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Eucla',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Hobart',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Hobart',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\LHI',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\LHI',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Lindeman',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Lindeman',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Lord_Howe',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Lord_Howe',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Melbourne',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Melbourne',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\NSW',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\NSW',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\North',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\North',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Perth',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Perth',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Queensland',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Queensland',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\South',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\South',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Sydney',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Sydney',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Tasmania',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Tasmania',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Victoria',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Victoria',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\West',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\West',
    'DATA'),
   ('tzdata\\zoneinfo\\Australia\\Yancowinna',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Yancowinna',
    'DATA'),
   ('tzdata\\zoneinfo\\Brazil\\Acre',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\Acre',
    'DATA'),
   ('tzdata\\zoneinfo\\Brazil\\DeNoronha',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\DeNoronha',
    'DATA'),
   ('tzdata\\zoneinfo\\Brazil\\East',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\East',
    'DATA'),
   ('tzdata\\zoneinfo\\Brazil\\West',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\West',
    'DATA'),
   ('tzdata\\zoneinfo\\CET',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\CET',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\CET',
    'DATA'),
   ('tzdata\\zoneinfo\\CST6CDT',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\CST6CDT',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\CST6CDT',
    'DATA'),
   ('tzdata\\zoneinfo\\Canada\\Atlantic',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Atlantic',
    'DATA'),
   ('tzdata\\zoneinfo\\Canada\\Central',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Central',
    'DATA'),
   ('tzdata\\zoneinfo\\Canada\\Eastern',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Eastern',
    'DATA'),
   ('tzdata\\zoneinfo\\Canada\\Mountain',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Mountain',
    'DATA'),
   ('tzdata\\zoneinfo\\Canada\\Newfoundland',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Newfoundland',
    'DATA'),
   ('tzdata\\zoneinfo\\Canada\\Pacific',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Pacific',
    'DATA'),
   ('tzdata\\zoneinfo\\Canada\\Saskatchewan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Saskatchewan',
    'DATA'),
   ('tzdata\\zoneinfo\\Canada\\Yukon',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Yukon',
    'DATA'),
   ('tzdata\\zoneinfo\\Chile\\Continental',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Chile\\Continental',
    'DATA'),
   ('tzdata\\zoneinfo\\Chile\\EasterIsland',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Chile\\EasterIsland',
    'DATA'),
   ('tzdata\\zoneinfo\\Cuba',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Cuba',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Cuba',
    'DATA'),
   ('tzdata\\zoneinfo\\EET',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EET',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EET',
    'DATA'),
   ('tzdata\\zoneinfo\\EST',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EST',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EST',
    'DATA'),
   ('tzdata\\zoneinfo\\EST5EDT',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EST5EDT',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EST5EDT',
    'DATA'),
   ('tzdata\\zoneinfo\\Egypt',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Egypt',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Egypt',
    'DATA'),
   ('tzdata\\zoneinfo\\Eire',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Eire',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Eire',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+0',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+0',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+1',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+1',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+10',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+10',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+11',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+11',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+12',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+12',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+2',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+2',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+3',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+3',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+4',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+4',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+5',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+5',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+6',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+6',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+7',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+7',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+8',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+8',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT+9',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+9',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-0',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-0',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-1',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-1',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-10',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-10',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-11',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-11',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-12',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-12',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-13',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-13',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-14',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-14',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-2',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-2',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-3',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-3',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-4',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-4',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-5',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-5',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-6',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-6',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-7',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-7',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-8',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-8',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT-9',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-9',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\GMT0',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT0',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\Greenwich',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\Greenwich',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\UCT',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\UCT',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\UTC',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\UTC',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\Universal',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\Universal',
    'DATA'),
   ('tzdata\\zoneinfo\\Etc\\Zulu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\Zulu',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Amsterdam',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Amsterdam',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Andorra',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Andorra',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Astrakhan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Astrakhan',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Athens',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Athens',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Belfast',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Belfast',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Belgrade',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Belgrade',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Berlin',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Berlin',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Bratislava',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Bratislava',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Brussels',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Brussels',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Bucharest',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Bucharest',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Budapest',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Budapest',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Busingen',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Busingen',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Chisinau',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Chisinau',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Copenhagen',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Copenhagen',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Dublin',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Dublin',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Gibraltar',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Gibraltar',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Guernsey',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Guernsey',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Helsinki',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Helsinki',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Isle_of_Man',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Isle_of_Man',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Istanbul',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Istanbul',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Jersey',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Jersey',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Kaliningrad',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Kaliningrad',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Kiev',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Kiev',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Kirov',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Kirov',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Kyiv',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Kyiv',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Lisbon',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Lisbon',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Ljubljana',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Ljubljana',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\London',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\London',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Luxembourg',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Luxembourg',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Madrid',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Madrid',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Malta',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Malta',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Mariehamn',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Mariehamn',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Minsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Minsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Monaco',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Monaco',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Moscow',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Moscow',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Nicosia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Nicosia',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Oslo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Oslo',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Paris',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Paris',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Podgorica',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Podgorica',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Prague',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Prague',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Riga',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Riga',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Rome',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Rome',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Samara',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Samara',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\San_Marino',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\San_Marino',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Sarajevo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Sarajevo',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Saratov',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Saratov',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Simferopol',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Simferopol',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Skopje',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Skopje',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Sofia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Sofia',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Stockholm',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Stockholm',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Tallinn',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Tallinn',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Tirane',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Tirane',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Tiraspol',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Tiraspol',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Ulyanovsk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Ulyanovsk',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Uzhgorod',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Uzhgorod',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Vaduz',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Vaduz',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Vatican',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Vatican',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Vienna',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Vienna',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Vilnius',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Vilnius',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Volgograd',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Volgograd',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Warsaw',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Warsaw',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Zagreb',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Zagreb',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Zaporozhye',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Zaporozhye',
    'DATA'),
   ('tzdata\\zoneinfo\\Europe\\Zurich',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Zurich',
    'DATA'),
   ('tzdata\\zoneinfo\\Factory',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Factory',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Factory',
    'DATA'),
   ('tzdata\\zoneinfo\\GB',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GB',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GB',
    'DATA'),
   ('tzdata\\zoneinfo\\GB-Eire',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GB-Eire',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GB-Eire',
    'DATA'),
   ('tzdata\\zoneinfo\\GMT',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT',
    'DATA'),
   ('tzdata\\zoneinfo\\GMT+0',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT+0',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT+0',
    'DATA'),
   ('tzdata\\zoneinfo\\GMT-0',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT-0',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT-0',
    'DATA'),
   ('tzdata\\zoneinfo\\GMT0',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT0',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT0',
    'DATA'),
   ('tzdata\\zoneinfo\\Greenwich',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Greenwich',
    'DATA'),
   ('tzdata\\zoneinfo\\HST',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\HST',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\HST',
    'DATA'),
   ('tzdata\\zoneinfo\\Hongkong',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Hongkong',
    'DATA'),
   ('tzdata\\zoneinfo\\Iceland',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Iceland',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Iceland',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Antananarivo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Antananarivo',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Chagos',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Chagos',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Christmas',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Christmas',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Cocos',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Cocos',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Comoro',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Comoro',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Kerguelen',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Kerguelen',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Mahe',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Mahe',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Maldives',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Maldives',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Mauritius',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Mauritius',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Mayotte',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Mayotte',
    'DATA'),
   ('tzdata\\zoneinfo\\Indian\\Reunion',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Reunion',
    'DATA'),
   ('tzdata\\zoneinfo\\Iran',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Iran',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Iran',
    'DATA'),
   ('tzdata\\zoneinfo\\Israel',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Israel',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Israel',
    'DATA'),
   ('tzdata\\zoneinfo\\Jamaica',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Jamaica',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Jamaica',
    'DATA'),
   ('tzdata\\zoneinfo\\Japan',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Japan',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Japan',
    'DATA'),
   ('tzdata\\zoneinfo\\Kwajalein',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Kwajalein',
    'DATA'),
   ('tzdata\\zoneinfo\\Libya',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Libya',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Libya',
    'DATA'),
   ('tzdata\\zoneinfo\\MET',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MET',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MET',
    'DATA'),
   ('tzdata\\zoneinfo\\MST',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MST',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MST',
    'DATA'),
   ('tzdata\\zoneinfo\\MST7MDT',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MST7MDT',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MST7MDT',
    'DATA'),
   ('tzdata\\zoneinfo\\Mexico\\BajaNorte',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\BajaNorte',
    'DATA'),
   ('tzdata\\zoneinfo\\Mexico\\BajaSur',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\BajaSur',
    'DATA'),
   ('tzdata\\zoneinfo\\Mexico\\General',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\General',
    'DATA'),
   ('tzdata\\zoneinfo\\NZ',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\NZ',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\NZ',
    'DATA'),
   ('tzdata\\zoneinfo\\NZ-CHAT',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\NZ-CHAT',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\NZ-CHAT',
    'DATA'),
   ('tzdata\\zoneinfo\\Navajo',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Navajo',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Navajo',
    'DATA'),
   ('tzdata\\zoneinfo\\PRC',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\PRC',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\PRC',
    'DATA'),
   ('tzdata\\zoneinfo\\PST8PDT',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\PST8PDT',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\PST8PDT',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Apia',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Apia',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Auckland',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Auckland',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Bougainville',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Bougainville',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Chatham',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Chatham',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Chuuk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Chuuk',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Easter',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Easter',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Efate',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Efate',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Enderbury',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Enderbury',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Fakaofo',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Fakaofo',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Fiji',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Fiji',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Funafuti',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Funafuti',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Galapagos',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Galapagos',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Gambier',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Gambier',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Guadalcanal',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Guadalcanal',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Guam',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Guam',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Honolulu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Honolulu',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Johnston',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Johnston',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Kanton',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Kanton',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Kiritimati',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Kiritimati',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Kosrae',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Kosrae',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Kwajalein',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Kwajalein',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Majuro',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Majuro',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Marquesas',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Marquesas',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Midway',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Midway',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Nauru',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Nauru',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Niue',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Niue',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Norfolk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Norfolk',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Noumea',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Noumea',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Pago_Pago',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Pago_Pago',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Palau',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Palau',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Pitcairn',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Pitcairn',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Pohnpei',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Pohnpei',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Ponape',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Ponape',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Port_Moresby',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Port_Moresby',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Rarotonga',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Rarotonga',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Saipan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Saipan',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Samoa',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Samoa',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Tahiti',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Tahiti',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Tarawa',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Tarawa',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Tongatapu',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Tongatapu',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Truk',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Truk',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Wake',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Wake',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Wallis',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Wallis',
    'DATA'),
   ('tzdata\\zoneinfo\\Pacific\\Yap',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Yap',
    'DATA'),
   ('tzdata\\zoneinfo\\Poland',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Poland',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Poland',
    'DATA'),
   ('tzdata\\zoneinfo\\Portugal',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Portugal',
    'DATA'),
   ('tzdata\\zoneinfo\\ROC',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\ROC',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\ROC',
    'DATA'),
   ('tzdata\\zoneinfo\\ROK',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\ROK',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\ROK',
    'DATA'),
   ('tzdata\\zoneinfo\\Singapore',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Singapore',
    'DATA'),
   ('tzdata\\zoneinfo\\Turkey',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Turkey',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Turkey',
    'DATA'),
   ('tzdata\\zoneinfo\\UCT',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\UCT',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\UCT',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Alaska',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Alaska',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Aleutian',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Aleutian',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Arizona',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Arizona',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Central',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Central',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\East-Indiana',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\East-Indiana',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Eastern',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Eastern',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Hawaii',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Hawaii',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Indiana-Starke',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Indiana-Starke',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Michigan',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Michigan',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Mountain',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Mountain',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Pacific',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Pacific',
    'DATA'),
   ('tzdata\\zoneinfo\\US\\Samoa',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Samoa',
    'DATA'),
   ('tzdata\\zoneinfo\\UTC',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\UTC',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\UTC',
    'DATA'),
   ('tzdata\\zoneinfo\\Universal',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Universal',
    'DATA'),
   ('tzdata\\zoneinfo\\W-SU',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\W-SU',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\W-SU',
    'DATA'),
   ('tzdata\\zoneinfo\\WET',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\WET',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\WET',
    'DATA'),
   ('tzdata\\zoneinfo\\Zulu',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Zulu',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Zulu',
    'DATA'),
   ('tzdata\\zoneinfo\\iso3166.tab',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\iso3166.tab',
    'DATA'),
   ('tzdata\\zoneinfo\\leapseconds',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\leapseconds',
    'DATA'),
   ('tzdata\\zoneinfo\\tzdata.zi',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\tzdata.zi',
    'DATA'),
   ('tzdata\\zoneinfo\\zone.tab',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\zone.tab',
    'DATA'),
   ('tzdata\\zoneinfo\\zone1970.tab',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\zone1970.tab',
    'DATA'),
   ('tzdata\\zoneinfo\\zonenow.tab',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\zonenow.tab',
    'DATA'),
   ('tzdata\\zones',
-   'X:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zones',
+   'x:\\Python Convertor\\.venv\\Lib\\site-packages\\tzdata\\zones',
    'DATA'),
   ('ucrtbase.dll',
    'C:\\Program Files\\Microsoft\\jdk-17.0.18.8-hotspot\\bin\\ucrtbase.dll',
@@ -6215,23 +6215,23 @@
    'C:\\Users\\abdul\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('werkzeug-3.1.8.dist-info\\INSTALLER',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\INSTALLER',
    'DATA'),
   ('werkzeug-3.1.8.dist-info\\METADATA',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\METADATA',
    'DATA'),
   ('werkzeug-3.1.8.dist-info\\RECORD',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\RECORD',
    'DATA'),
   ('werkzeug-3.1.8.dist-info\\WHEEL',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\WHEEL',
    'DATA'),
   ('werkzeug-3.1.8.dist-info\\licenses\\LICENSE.txt',
-   'X:\\Python '
+   'x:\\Python '
    'Convertor\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\licenses\\LICENSE.txt',
    'DATA'),
   ('zlib1.dll',
